@@ -6,5 +6,6 @@ public class Happy {
 		System.out.println("right");
 		System.out.println("left");	
 		System.out.println("测试分支bbb");
+		System.out.println("晚安——18/8/13");
 	}
 }
